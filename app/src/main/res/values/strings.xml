@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NewsFeedApp</string>
+    <string name="no_news">No news is good news</string>
+    <string name="no_internet_connection">No internet connection.</string>
+    <string name="error">An error occurred, please try again later</string>
+    <string name="no_title">An error occurred, please try again later</string>
+    <string name="url">http://content.guardianapis.com/search</string>
+    <string name="q">debate</string>
+    <string name="tag">politics/politics</string>
+    <string name="apikey">test</string>
+</resources>

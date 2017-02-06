@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/mytr/AndroidStudioProjects/udacity/NewsFeedApp/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/home/mytr/AndroidStudioProjects/udacity/NewsFeedApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_5b06acd9a82030c6828ac94ea4233d961bcb36d2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mytr/AndroidStudioProjects/udacity/NewsFeedApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/home/mytr/AndroidStudioProjects/udacity/NewsFeedApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.1_d8b43bde8990523139419c33db52f0b3bdd38f88/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mytr/AndroidStudioProjects/udacity/NewsFeedApp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="10ef4737d81d0b44e96e2946a10a091df52a9cdc">
+        <dex dex="/home/mytr/AndroidStudioProjects/udacity/NewsFeedApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_551440539191b95aaf3952c77139069ab3d11f32/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mytr/AndroidStudioProjects/udacity/NewsFeedApp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6828249b41e90ef57515262f9293f7fba16c24cb">
+        <dex dex="/home/mytr/AndroidStudioProjects/udacity/NewsFeedApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_78c2e70e05a960495c5751dec091f4712555f1a4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mytr/AndroidStudioProjects/udacity/NewsFeedApp/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/home/mytr/AndroidStudioProjects/udacity/NewsFeedApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.1_c6d4e2f1dd52ceb8cccb95e17b6f50243d49d3eb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mytr/AndroidStudioProjects/udacity/NewsFeedApp/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/home/mytr/AndroidStudioProjects/udacity/NewsFeedApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_badd85228e4441af3a2d677cab181e7df0acaec0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mytr/AndroidStudioProjects/udacity/NewsFeedApp/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/home/mytr/AndroidStudioProjects/udacity/NewsFeedApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.1_9eb654b9d82c48f88997b02f1198f1cdda416a37/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mytr/AndroidStudioProjects/udacity/NewsFeedApp/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/home/mytr/AndroidStudioProjects/udacity/NewsFeedApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_d9f3bdfa01e79f08c9542459a33485be78c23340/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mytr/AndroidStudioProjects/udacity/NewsFeedApp/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/home/mytr/AndroidStudioProjects/udacity/NewsFeedApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.1_c95f507bfc76f95ecc3f3f0c2e86cbf0ca6f8ba4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mytr/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/home/mytr/AndroidStudioProjects/udacity/NewsFeedApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.1_6ddf7bd39b71fd34df863dc4e1f19d7933b3c44e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mytr/AndroidStudioProjects/udacity/NewsFeedApp/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/home/mytr/AndroidStudioProjects/udacity/NewsFeedApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_a45589afee132a7fd775bcbf1d82bab935a13b20/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mytr/AndroidStudioProjects/udacity/NewsFeedApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/mytr/AndroidStudioProjects/udacity/NewsFeedApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.1_8aaebe90d820cb97da2182edb43efc399486e04d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mytr/AndroidStudioProjects/udacity/NewsFeedApp/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/home/mytr/AndroidStudioProjects/udacity/NewsFeedApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.1_086df9726d1f221a4fa262352c30ba35d4a2f4f4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mytr/AndroidStudioProjects/udacity/NewsFeedApp/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/home/mytr/AndroidStudioProjects/udacity/NewsFeedApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_edeab31629597c274fc48228f2c4875addb14365/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mytr/AndroidStudioProjects/udacity/NewsFeedApp/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/home/mytr/AndroidStudioProjects/udacity/NewsFeedApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.1_772c713c1f5f0b05cfe84ad47f7b2e58b28e4fb0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mytr/AndroidStudioProjects/udacity/NewsFeedApp/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/home/mytr/AndroidStudioProjects/udacity/NewsFeedApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.1_6bd2ab7f551c8daa914dbdc7825a44cd5db7d8c2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mytr/AndroidStudioProjects/udacity/NewsFeedApp/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/home/mytr/AndroidStudioProjects/udacity/NewsFeedApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.1_86d7d0df98bc83091061b1dd6e0b90badd441773/classes.dex" />
+    </item>
+
+</items>
